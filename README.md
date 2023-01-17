@@ -1,2 +1,2 @@
 # Air-Canvas
-An attempt is made to use OpenCV to build a hands-free digital canvas to recognize and understand gestures and to display on the screen.
+Air Canvas is a hands-free digital drawing canvas that utilizes a Raspberry Pi, a good quality HD Camera, and OpenCV to recognize and map hand gestures onto a screen. The user’s “brush” can be modified in size and color by using built-in buttons. The direction of the brush is controlled completely using open source OpenCV software and modified to map the pointer finger onto the screen using Pygame following a calibration screen to measure and record the color of the user’s hand. The idea for Air Canvas was a result of our interest in digital drawing and smart photo recognition software.
